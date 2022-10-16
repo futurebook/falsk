@@ -1,0 +1,44 @@
+.page-title{
+    text-align: center;
+}
+.comment-group{
+    list-style: none;
+}
+.question-info{
+    text-align: center;
+    padding-left: 0;
+}
+
+.avatar{
+    width: 38px;
+    height: 38px;
+    border-radius: 3px;
+}
+
+
+.comment-group-title{
+    margin-top: 20px;
+}
+
+.form-container{
+    width: 500px;
+    margin-top: 10px;
+    text-align: right;
+}
+
+.comment-group li{
+    border-bottom: 1px solid #eee;
+    padding: 10px;
+}
+
+.user-info .username{
+    margin-left: 10px;
+}
+
+.user-info .create-time{
+    float: right;
+}
+
+.comment-content{
+    margin-left: 50px;
+}
